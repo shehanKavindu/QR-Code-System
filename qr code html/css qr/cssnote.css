@@ -80,7 +80,7 @@ body
 {
     position: absolute;
     inset: 0;
-    background: url("../assests/images/qrc.png");
+    background: url("../assests/images/qr\ code\ 2.png");
     background-size: 400px;
     background-repeat:  no-repeat;
     animation: animateText 0.5s linear infinite;
@@ -90,7 +90,7 @@ body
     text-transform: uppercase;
     font-size: 2em;
     margin-top: 20px;
-    color:whitesmoke;
+    color: bisque;
     letter-spacing: 2px;
     filter: drop-shadow(0 0 20px #fff) drop-shadow(0 0 20px #ffffff  );
     animation: animateText 0.5s steps(1) infinite;
